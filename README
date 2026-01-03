@@ -1,0 +1,37 @@
+# Everything Calculator 🌟
+
+**A cozy web platform where anyone can instantly generate, use, and browse calculators from natural-language prompts.**
+
+---
+
+## About
+Everything Calculator lets users create any calculator they need instantly using plain language.  
+Whether it’s a **net worth calculator**, **GPA calculator**, or something completely custom, users can generate, use, and save calculators effortlessly.
+
+---
+
+## Features
+- Generate calculators from natural-language prompts  
+- Interactive calculator UI (inputs, outputs, formulas)  
+- Browse a marketplace of user-created calculators  
+- Save calculators anonymously or with optional attribution  
+- Rate and like calculators  
+- Search and filter calculators  
+- Copy results or use them on the spot  
+
+---
+
+## Tech Stack
+- **Frontend:** React + Vite + Tailwind CSS  
+- **AI:** OpenAI (for interpreting calculator prompts)  
+- **Math Logic:** math.js or expr-eval  
+- **Auth & Database:** Supabase  
+- **State / UI:** Zustand + ShadCN/UI  
+
+---
+
+## Future Roadmap
+- User accounts & profiles  
+- Public sharing & social feed  
+- Comments & community interactions  
+- Export calculators or embed them in websites  
